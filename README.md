@@ -13,7 +13,7 @@ SuperStory is a AI powered story app for kids that brings personalized storytell
 
 To get started with SuperStory, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/superstory.git`
+1. Clone the repository: `git clone https://github.com/whovivekshukla/superstory.git`
 2. Install the required dependencies: `npm install`
 3. Launch the app: `npm start`
 4. Open your web browser and navigate to `http://localhost:3000` to access SuperStory.
